@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-A Simple React Todo App
+A Simple React Todo App created with Material UI
 ![image](https://user-images.githubusercontent.com/25723103/109420466-a9a5d580-79f8-11eb-8a6e-b32019a2bcd1.png)
 
 
